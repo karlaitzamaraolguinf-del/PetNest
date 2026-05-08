@@ -66,9 +66,6 @@ La aplicación permite a los usuarios:
 ## Panel Admin
 ![Admin](assets/screenshots/admin.png)
 
-## Carrito
-![Cart](assets/screenshots/cart.png)
-
 ---
 
 # 📂 Estructura del proyecto
