@@ -1,16 +1,66 @@
-# petnest
+# 🐾 PetNest
 
-A new Flutter project.
+PetNest es una aplicación móvil desarrollada en Flutter enfocada en el cuidado, adopción y gestión de mascotas.
 
-## Getting Started
+La aplicación permite a los usuarios:
+- Explorar mascotas disponibles para adopción
+- Comprar productos para mascotas
+- Administrar su perfil
+- Gestionar información desde un panel administrador
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# ✨ Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 👤 Usuarios
+- Inicio de sesión
+- Registro de usuarios
+- Perfil de usuario
+- Cierre de sesión
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🐶 Mascotas
+- Visualización de mascotas
+- Gestión de adopciones
+- Información detallada
+
+## 🛍️ Tienda
+- Catálogo de productos
+- Carrito de compras
+- Recibo de compra
+
+## 🛠️ Panel Administrador
+- Gestión de mascotas
+- Gestión de productos
+- Gestión de usuarios
+- Gestión de adopciones
+
+## 📷 Funciones extra
+- Cámara
+- Galería
+- Dibujo
+- Enlaces rápidos
+
+---
+
+# 🚀 Tecnologías utilizadas
+
+- Flutter
+- Dart
+- Firebase
+- Provider
+- Material Design
+
+---
+
+# 📂 Estructura del proyecto
+
+```bash
+lib/
+ ├── data/
+ ├── models/
+ ├── providers/
+ ├── screens/
+ ├── services/
+ ├── utils/
+ ├── widgets/
+ └── main.dart
