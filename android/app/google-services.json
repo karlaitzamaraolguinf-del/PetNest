@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1043317349485",
+    "project_id": "petnest-app1",
+    "storage_bucket": "petnest-app1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043317349485:android:5cee7a4917da23c0b93364",
+        "android_client_info": {
+          "package_name": "com.example.petnest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043317349485-0k1bmrp17td5hnuf0q8a2lfga7uahojd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petnest",
+            "certificate_hash": "2e6929819765c40beb697e4cf3dc9c1ed5130fd6"
+          }
+        },
+        {
+          "client_id": "1043317349485-jg5eo860j56oh7gks2ra8nf75h4sbfco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWL0IbADrMrFNYY_2sYxk30DVg-ISnX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043317349485-jg5eo860j56oh7gks2ra8nf75h4sbfco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043317349485-hf4rkk4bcagea71s7cm4ceqsfq9nlrg4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petnest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
