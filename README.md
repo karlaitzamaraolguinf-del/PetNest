@@ -55,16 +55,16 @@ La aplicación permite a los usuarios:
 # 📱 Capturas
 
 ## Login
-![Login](assets/screenshots/login.png)
+<img src="./assets/screenshots/login.png" width="250"/>
 
 ## Home
-![Home](assets/screenshots/home.png)
+<img src="./assets/screenshots/home.png" width="250"/>
 
 ## Tienda
-![Shop](assets/screenshots/shop.png)
+<img src="./assets/screenshots/shop.png" width="250"/>
 
 ## Panel Admin
-![Admin](assets/screenshots/admin.png)
+<img src="./assets/screenshots/admin.png" width="250"/>
 
 ---
 
