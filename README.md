@@ -52,6 +52,25 @@ La aplicación permite a los usuarios:
 
 ---
 
+# 📱 Capturas
+
+## Login
+![Login](assets/screenshots/login.png)
+
+## Home
+![Home](assets/screenshots/home.png)
+
+## Tienda
+![Shop](assets/screenshots/shop.png)
+
+## Panel Admin
+![Admin](assets/screenshots/admin.png)
+
+## Carrito
+![Cart](assets/screenshots/cart.png)
+
+---
+
 # 📂 Estructura del proyecto
 
 ```bash
